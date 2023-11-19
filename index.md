@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-lol
 ---
 
+I really like using Markdown.
